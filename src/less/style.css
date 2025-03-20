@@ -46,3 +46,6 @@ body .secondblock .tags {
   width: 270px;
   height: 50px;
 }
+body .secondblock .firstcol {
+  margin-left: 20%;
+}
